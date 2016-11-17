@@ -1,7 +1,7 @@
 package http
 
 import (
-	"gitcafe.com/ops/meta/g"
+	"github.com/nagae-memooff/ops-meta/g"
 	"github.com/toolkits/file"
 	"net/http"
 	"strings"

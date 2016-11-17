@@ -2,9 +2,9 @@ package http
 
 import (
 	"encoding/json"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/meta/g"
-	"gitcafe.com/ops/meta/store"
+	"github.com/nagae-memooff/ops-common/model"
+	"github.com/nagae-memooff/ops-meta/g"
+	"github.com/nagae-memooff/ops-meta/store"
 	"log"
 	"net/http"
 )

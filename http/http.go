@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"gitcafe.com/ops/meta/g"
+	"github.com/nagae-memooff/ops-meta/g"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
